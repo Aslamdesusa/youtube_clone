@@ -1,0 +1,21 @@
+body{
+    margin: auto;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    background-color: #f1f1f1;
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+    top: 0;
+}
+#hello{
+    margin-top: 100px;
+}
+.row1{
+    display: flex;
+}
+img{
+    margin-right: 40px;
+}
